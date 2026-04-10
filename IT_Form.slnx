@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../IT_AracKiralama/IT_AracKiralama.csproj" />
+  <Project Path="../IT_Formlar_Arasi_Gecis/IT_Formlar_Arasi_Gecis.csproj" Id="40a75aa5-d9cd-4776-90bc-87dae30d9a9e" />
+  <Project Path="../IT_Game/IT_Game.csproj" Id="c7e5c924-f4f2-43ed-a182-4531aacfb691" />
+  <Project Path="../IT_KutuphaneOtomasyon/IT_KutuphaneOtomasyon.csproj" Id="e2f1c7d0-cf87-44ee-a45f-f256bd44395b" />
+  <Project Path="../IT_RunTimeControls/IT_RunTimeControls.csproj" Id="c28cd6d1-3733-4cb3-9d56-3adbe918fac6" />
+  <Project Path="IT_Form.csproj" />
+</Solution>
